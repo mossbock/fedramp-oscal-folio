@@ -10,7 +10,7 @@ This portfolio:<br>
 - Bridges traditional risk management framework (RMF) documentation and modern DevSecOps practices.<br>
 - Shows how automated evidence collection can feed gov risk and compliance (GRC) using policy-as-code, docs-as-code, and compliance-as-code.<br>
 
-The portfolio looks at evidence mapping using the following: Infrastructure-as-code (IaS), CI/CD pipelines, cloud-provider native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews. Current goals include:
+The portfolio looks at evidence mapping using the following: Infrastructure-as-code (IaS), CI/CD pipelines, cloud native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews. Current goals include:
 - Understanding the FedRAMP automation repository and how practitioners are using it.<br>
 - Following emerging patterns and the GRC community.<br>
 - Developing a mental model of how existing RMF documentation maps to OSCAL constructs.<br>
