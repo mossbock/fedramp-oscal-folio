@@ -2,7 +2,7 @@
 Self-directed professional development track for OPA, OSCAL, and FedRAMP/StateRAMP automation. Using Claude for professional development, I'm spinning up on evidence pipeline architecture and looking at how to help organizations:
 - Close the gap between their engineering and their compliance reporting.
 - Capture and translate the evidence layer, the OSCAL layer, and the eMASS layer.
-- Get everything machine-readable for RFC-0024 and 20x.
+- Get everything machine-readable for 20x.
 - Get the old-school SSPs, SARs, POAMs, and RMF policy docs ready if none of the above are in place yet.
 
 This portfolio:<br>
