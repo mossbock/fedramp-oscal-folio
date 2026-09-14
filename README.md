@@ -1,6 +1,6 @@
 # GRC Engineering Portfolio by Shawnie Blanchard: Project-Based Learning
-Self-directed professional development track for OPA, OSCAL, and FedRAMP/StateRAMP automation. Using the CRC Engineering Club's resources and Claude for professional development, I'm<br> 
-- Spinning up on evidence pipeline architecture and<br> 
+Self-directed professional development track for OPA, OSCAL, and FedRAMP/StateRAMP automation. Using the CRC Engineering Club's resources and Claude for professional development, I'm:<br> 
+- Spinning up on cloud pipeline architecture.<br>
 - Looking at how to help organizations:<br>
 -- Close the gap between their engineering and their compliance reporting.<br>
 -- Capture and translate the evidence layer, the OSCAL layer, and the eMASS layer.<br>
